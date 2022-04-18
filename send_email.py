@@ -15,5 +15,3 @@ def send_email(message):
 			print("email sent")
 		except:
 			print("could not log in or send mail.")
-
-send_email("test")
